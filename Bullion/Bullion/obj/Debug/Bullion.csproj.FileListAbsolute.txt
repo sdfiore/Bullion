@@ -1,0 +1,68 @@
+D:\VisualStudio\Repos\Bullion\Bullion\bin\Debug\Bullion.exe.config
+D:\VisualStudio\Repos\Bullion\Bullion\bin\Debug\Bullion.exe
+D:\VisualStudio\Repos\Bullion\Bullion\bin\Debug\Bullion.pdb
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.csprojAssemblyReference.cache
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\about\AboutWindow.baml
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\donate\DonateWindow.baml
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\help\HelpWindow.baml
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\main\MainWindow.baml
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\sign in\SignInWindow.baml
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\about\AboutWindow.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\donate\DonateWindow.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\help\HelpWindow.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\main\MainWindow.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\windows\sign in\SignInWindow.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\App.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion_Content.g.cs
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion_MarkupCompile.cache
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.g.resources
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.Properties.Resources.resources
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.csproj.GenerateResource.cache
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.csproj.CopyComplete
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.exe
+D:\VisualStudio\Repos\Bullion\Bullion\obj\Debug\Bullion.pdb
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.csprojAssemblyReference.cache
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\about\AboutWindow.baml
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\donate\DonateWindow.baml
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\help\HelpWindow.baml
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\main\MainWindow.baml
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\sign in\SignInWindow.baml
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\about\AboutWindow.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\donate\DonateWindow.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\help\HelpWindow.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\main\MainWindow.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\windows\sign in\SignInWindow.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\App.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion_Content.g.cs
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion_MarkupCompile.cache
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.g.resources
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.Properties.Resources.resources
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.csproj.GenerateResource.cache
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.csproj.CoreCompileInputs.cache
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.exe
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.pdb
+D:\My Projects\csharp projects\Bullion\Bullion\bin\Debug\Bullion.exe.config
+D:\My Projects\csharp projects\Bullion\Bullion\bin\Debug\Bullion.exe
+D:\My Projects\csharp projects\Bullion\Bullion\bin\Debug\Bullion.pdb
+D:\My Projects\csharp projects\Bullion\Bullion\obj\Debug\Bullion.csproj.CopyComplete
+D:\My Projects\github portfolio\Bullion\Bullion\bin\Debug\Bullion.exe.config
+D:\My Projects\github portfolio\Bullion\Bullion\bin\Debug\Bullion.exe
+D:\My Projects\github portfolio\Bullion\Bullion\bin\Debug\Bullion.pdb
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.csprojAssemblyReference.cache
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\about\AboutWindow.baml
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\help\HelpWindow.baml
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\main\MainWindow.baml
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\about\AboutWindow.g.cs
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\help\HelpWindow.g.cs
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\views\main\MainWindow.g.cs
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\App.g.cs
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion_Content.g.cs
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion_MarkupCompile.cache
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.g.resources
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.Properties.Resources.resources
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.csproj.GenerateResource.cache
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.csproj.CoreCompileInputs.cache
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.csproj.CopyComplete
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.exe
+D:\My Projects\github portfolio\Bullion\Bullion\obj\Debug\Bullion.pdb

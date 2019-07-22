@@ -1,0 +1,27 @@
+﻿<Window x:Class="Bullion.views.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Height="400" Width="500" WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" ResizeMode="NoResize">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="103" VerticalAlignment="Top" Width="494" Background="#FF13161F">
+            <Label x:Name="helpTitleLabel" Content="Help" HorizontalAlignment="Center" Margin="181,4,181,62" VerticalAlignment="Center" Foreground="White" FontSize="18" Height="37"/>
+            <TextBlock x:Name="helpSummaryLabel" TextWrapping="Wrap" HorizontalAlignment="Left" Height="47" Margin="10,46,0,0" VerticalAlignment="Top" Width="474" FontFamily="Segoe UI Light" FontSize="14" Foreground="White" Background="{x:Null}" TextAlignment="Center">
+                Confused? Look no further! Here you will find an explanation of every feature
+                used in Bullion. As a new user, you may want to read the tutorial below.
+            </TextBlock>
+        </Grid>
+        <TextBlock x:Name="helpBodyLabel" TextWrapping="Wrap" HorizontalAlignment="Left" Height="145" Margin="10,120,0,0" VerticalAlignment="Top" Width="474" FontFamily="Segoe UI" FontSize="14" Foreground="#FF13161F" Background="{x:Null}" TextAlignment="Center">
+            Bullion's intuitive design allows users to easily create, access, and delete files
+            containing account information (savings, cash, and cryptocurrency). To load
+            a saved account, select "Import data" and select a file. To save an account,
+            select "Export data", and select a file or replace an existing file. To deposit or
+            withdraw savings, cash, or cryptocurrency, select an option from the
+            "Resources" menu, type in an amount, then press the "+" or "-" button to
+            change the values of your resources.
+        </TextBlock>
+        
+    </Grid>
+</Window>

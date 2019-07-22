@@ -1,0 +1,12 @@
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\bin\Debug\BullionLibrary.dll
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\bin\Debug\BullionLibrary.pdb
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.csprojAssemblyReference.cache
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.dll
+D:\VisualStudio\Repos\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.pdb
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\bin\Debug\BullionLibrary.dll
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\bin\Debug\BullionLibrary.pdb
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.csprojAssemblyReference.cache
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.csproj.CoreCompileInputs.cache
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.dll
+D:\My Projects\csharp projects\BullionLibrary\BullionLibrary\obj\Debug\BullionLibrary.pdb
